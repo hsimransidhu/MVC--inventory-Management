@@ -1,4 +1,4 @@
- **# Product Inventory Management App
+ ## Product Inventory Management App
 
 This is a simple web application for managing product inventory. It allows users to view a list of products, add new products, and delete existing products.
 
